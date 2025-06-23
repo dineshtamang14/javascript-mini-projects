@@ -14,3 +14,10 @@ patch:
         path: >-
           react-scripts > babel-jest > @jest/transform > @babel/core >
           @babel/helper-module-transforms > lodash
+    - react-scripts > babel-jest > @jest/transform > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2025-06-23T09:07:10.232Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          react-scripts > babel-jest > @jest/transform > @babel/core >
+          @babel/helper-module-transforms > @babel/helper-replace-supers >
+          @babel/traverse > lodash
