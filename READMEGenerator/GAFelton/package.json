@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/GAFelton/hw-7-readme-generator#readme",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^8.2.7"
   }
 }
